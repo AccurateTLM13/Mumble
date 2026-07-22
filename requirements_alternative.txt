@@ -6,7 +6,7 @@ numpy==1.24.3
 keyboard==0.13.5
 pyperclip==1.8.2
 pyautogui==0.9.53
-Pillow==12.2.0
+Pillow==12.3.0
 cairosvg==2.9.0
 # Alternative audio backends
 pycaw==20220416  # Windows volume control
